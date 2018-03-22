@@ -1,0 +1,27 @@
+h1 {
+    margin: 15px
+}
+
+#editor {
+    margin: 15px;
+}
+
+#editor button {
+    margin: 0 15px 15px 0;
+    font-size: 18px
+}
+
+#italics {
+    font-style: italic 
+}
+
+#bold {
+    font-weight: bold
+}
+
+#editor > div{
+    min-height: 250px;
+    padding: 10px;
+    border: 2px black solid;
+    font-size: 24px
+}
